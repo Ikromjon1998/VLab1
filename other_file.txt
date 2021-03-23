@@ -1,1 +1,1 @@
-Make change in  file type .txt and name other_file.txt
+Make change without commiting in  file type .txt and name other_file.txt
