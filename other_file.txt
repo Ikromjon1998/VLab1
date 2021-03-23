@@ -1,1 +1,1 @@
-other file type .txt
+Make change in  file type .txt and name other_file.txt
